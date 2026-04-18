@@ -1,0 +1,12 @@
+{
+  "limestone_types": [
+    {
+      "name": "Chalk",
+      "texture": "Soft and fine-grained"
+    },
+    {
+      "name": "Coquina",
+      "texture": "Rough with shell fragments"
+    }
+  ]
+}
